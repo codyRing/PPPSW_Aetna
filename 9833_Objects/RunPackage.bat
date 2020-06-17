@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\130\DTS\Binn\DTExec.exe" /F ".\Load-Aetna.DTSX" > log.txt
